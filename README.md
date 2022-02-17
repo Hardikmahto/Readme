@@ -1,3 +1,4 @@
+ABOUT ME:
 - 👋 Hi, I’m Hardik Mahto, currently pursuing Bachelors's in Computer Science & Engineering 🎓 from Vellore Institute of Technology. 🏛 
 - 👀 I'm Passionate to learn new Technology , concepts and implement new ideas ! Curious by nature ! Eager to learn ! Creative and Problem Solving mindset !
       Like to talk out and listen to people's ideas !
