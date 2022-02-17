@@ -1,4 +1,14 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" /></a>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >, I'm Hardik Mahto  😎 
+
+<p align=left>
+<img height="25" src="https://badges.pufler.dev/visits/Aditya-Bhate/Aditya-Bhate?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=Aditya-Bhate&color=brightgreen" />
+<a href="https://github.com/Aditya-Bhate">
+</a>
+</p>
+
+---
 
 ### ABOUT ME:
 - 👋 Hi, I’m Hardik Mahto, currently pursuing Bachelors's in Computer Science & Engineering 🎓 from Vellore Institute of Technology. 🏛 
@@ -8,7 +18,10 @@
       and Strengthing my Data Structures and Algorithm skills 👨‍🔬 as well .
 - 👨🏻‍💻 I’m currently learning Machine learning, Deep Learning, NLP and much interested in Data science. 🤙
 - 🛠 I’m currently working with Python, C++, Java, ReactJS, MongoDB, Kotlin, XML, HTML, CSS, JS etc. 💻
-- 💞️ I’m looking to collaborate on ...
+
+---
+<img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
+
 
 ### Connect with me:
 
@@ -77,12 +90,15 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 
-
+<br/ >
+#### *Really looking forward to connect with more and more people . Kindly connect with me on my social handles 😉. Would be more than happy to help !* 
+	
+#### *Kindly show some support 😊 by giving ⭐ to my repositories !*
 
 <!---
 TNYeti/TNYeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TNYeti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
